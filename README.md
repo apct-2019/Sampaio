@@ -47,11 +47,11 @@ Os parâmetros definitivos para a escolha do mixer ADE-6+ foram a frequência de
 Para ter uma ideia de como será o comportamento no componente, para a faixa de frequências de operação do receptor, tomou-se os valores da perda de conversão, isolamento entre as portas e potência de entrada dos sinais de RF e de LO, bem como os valores de IP3 e P1dB, e simulou-se no software NI AWR um mixer com tais parâmetros. Os gráficos abaixo mostram o espectro do sinal IF da saída do mixer, representando a presença dos produtos de intermodulação e também vendo as frequências em torno da frequẽncia de IF.
 
 <p align="center">
-  <img src="https://github.com/apct-2019/Sampaio/blob/master/images/mixer1.png">
+  <img src="https://github.com/apct-2019/Sampaio/blob/master/images/mixer3.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/apct-2019/Sampaio/blob/master/images/mixer2.png">
+  <img src="https://github.com/apct-2019/Sampaio/blob/master/images/mixer4.png">
 </p>
 
 É possível ver a presença do harmônico de FI, que será retirada com posterior filtragem após o batimento.
